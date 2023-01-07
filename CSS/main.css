@@ -123,6 +123,7 @@ ul{
 .main__item--dark1{
     grid-row: 1/3;
     align-self: center;
+    justify-items: ;
 }
 .main__item--dark2::before{
     background: #EA5454;
